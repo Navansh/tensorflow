@@ -14,4 +14,4 @@ The CI folder contains the configuration files and scripts used to build, test,
 and deploy TensorFlow. This folder is typically used by continuous integration
 (CI) tools to build and test TensorFlow whenever there is a change to the
 code. This folder is broken into subfolders that represent the level of support
-and ownership of the files contained within.
+and ownership of the files contained within.....
